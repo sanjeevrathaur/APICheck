@@ -1,0 +1,11 @@
+#
+#Tue Mar 21 11:39:21 IST 2017
+API_SOURCE_FOLDER=src/main/java
+FRONTEND_SOLUTION=JAVA
+GENERATE_TEST=0
+WEB_PACKAGE=com.cfts.ids.openlegacy.web
+API_PACKAGE=com.cfts.ids.openlegacy.entities
+USE_AJ=1
+BACKEND_SOLUTION=RPC
+PROVIDER=openlegacy-rpc-mf
+DESIGNTIME_CONTEXT=default
